@@ -6,7 +6,7 @@
 	- /usr/share/metasploit-framework/data/wordlists/unix_passwords.txt
 
 # Nmap script
-
+- echo "sysadmin" > users
 - ftp-brute --script-args userdb=/root/users
 
 # Metasploit modules
