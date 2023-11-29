@@ -34,6 +34,7 @@
 - load icognito
 - list_tokens -u : make note of available tokens (eg. delegation token)
 - impersonate_token <token_name>
+(Note: token_name must be written with additional slash if multiple slash, e.g. ATTACKDEFENSE\\Administrator)
 
 ![meterpreter access denied to read file](./images/privesc-03.png)  ￼￼	   ￼
 
