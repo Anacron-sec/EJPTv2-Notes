@@ -7,7 +7,7 @@
 
 # Nmap script
 - echo "sysadmin" > users
-- ftp-brute --script-args userdb=/root/users (nmap --script ftp-brute --script-args userdb=/root/users -p 21 <ip>)
+- ftp-brute --script-args userdb=/root/users (nmap --script ftp-brute --script-args userdb=/root/users -p 21 ip)
 
 # Metasploit modules
 
