@@ -12,3 +12,7 @@
 	
 	![http-exploit-burp](./images/http-02.png)
 	  ￼
+
+Metasploit:
+ - scan with scanner/http/apache_mod_cgi_bash_env
+ - gain meterpreter session with multi/http/apache_mod_cgi_bash_env_exec
